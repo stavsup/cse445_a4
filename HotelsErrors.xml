@@ -32,6 +32,7 @@
 			<City>Colorado Springs</City>
 			<State>Colorado</State>
 			<Zip>80906</Zip>
+		</Address>
 	</Hotel>
 	<Hotel>
 		<Name>The Claremont</Name>
@@ -77,7 +78,6 @@
 			<City>Flagstaff</City>
 			<State>Arizona</State>
 			<Zip>86001</Zip>
-		</Address>
 	</Hotel>
 	<Hotel Rating="4.5">
 		<Name>The Bryant Park Hotel</Name>
@@ -112,4 +112,5 @@
 			<Zip>96815</Zip>
 		</Address>
 	</Hotel>
+
 </Hotel>
