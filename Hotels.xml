@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotels>
+	<Hotel Rating="4.3">
+		<Name>The Westin Tempe</Name>
+		<Phone>+1 480-968-8885</Phone>
+		<Address NearestAirport="Phoenix Sky Harbor International Airport">
+			<Number>11</Number>
+			<Street>E. Seventh Street</Street>
+			<City>Tempe</City>
+			<State>Arizona</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.5">
+		<Name>Fairmont San Francisco</Name>
+		<Phone>+1 4157725000</Phone>
+		<Phone>+1 8665404491</Phone>
+		<Address NearestAirport="San Francisco International Airport">
+			<Number>950</Number>
+			<Street>Mason Street</Street>
+			<City>San Francisco</City>
+			<State>California</State>
+			<Zip>94108</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>The Broadmoor</Name>
+		<Phone>855-634-7711</Phone>
+		<Phone>855-421-4301</Phone>
+		<Phone>800-633-7711</Phone>
+		<Address NearestAirport="Colorado Springs Airport">
+			<Number>1</Number>
+			<Street>Lake Avenue</Street>
+			<City>Colorado Springs</City>
+			<State>Colorado</State>
+			<Zip>80906</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>The Claremont</Name>
+		<Phone>(207) 244-5036</Phone>
+		<Address NearestAirport="Hancock County-Bar Harbor Airport">
+			<Number>22</Number>
+			<Street>Claremont Road</Street>
+			<City>Southwest Harbor</City>
+			<State>Maine</State>
+			<Zip>04679</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.5">
+		<Name>The Greenbrier</Name>
+		<Phone>(855) 453-4858</Phone>
+		<Address NearestAirport="Roanoke–Blacksburg Regional Airport">
+			<Number>101</Number>
+			<Street>Main Street West</Street>
+			<City>White Sulphur Springs</City>
+			<State>West Virginia</State>
+			<Zip>24986</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>HOTEL DU PONT</Name>
+		<Phone>302.594.3100</Phone>
+		<Address NearestAirport="New Castle Airport">
+			<Number>42</Number>
+			<Street>West 11th Street</Street>
+			<City>Wilmington</City>
+			<State>Delaware</State>
+			<Zip>19801</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="3.8">
+		<Name>Budget Inn</Name>
+		<Phone>928 774-5038</Phone>
+		<Phone>866 774-7830</Phone>
+		<Address NearestAirport="Flagstaff Pulliam Airport">
+			<Number>913</Number>
+			<Street>South Milton Road</Street>
+			<City>Flagstaff</City>
+			<State>Arizona</State>
+			<Zip>86001</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.5">
+		<Name>The Bryant Park Hotel</Name>
+		<Phone>212.869.0100</Phone>
+		<Address NearestAirport="La Guardia Airport">
+			<Number>40</Number>
+			<Street>West 40th Street</Street>
+			<City>New York</City>
+			<State>New York</State>
+			<Zip>10018</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.8">
+		<Name>Ironworks Hotel</Name>
+		<Phone>(463) 221-2200</Phone>
+		<Address NearestAirport="Indianapolis International Airport">
+			<Number>2721</Number>
+			<Street>East 86 Street</Street>
+			<City>Indianapolis</City>
+			<State>Indiana</State>
+			<Zip>46240</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>The Ritz-Carlton Residences, Waikiki Beach</Name>
+		<Phone>+1 808-922-8111</Phone>
+		<Address NearestAirport="Daniel K Inouye International Airport">
+			<Number>383</Number>
+			<Street>Kalaimoku Street</Street>
+			<City>Waikiki Beach</City>
+			<State>Hawaii</State>
+			<Zip>96815</Zip>
+		</Address>
+	</Hotel>
+</Hotels>
